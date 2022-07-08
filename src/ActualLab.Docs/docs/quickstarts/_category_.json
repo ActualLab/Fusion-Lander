@@ -1,0 +1,8 @@
+{
+  "label": "Quickstarts",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Get going in no time with your favorite stack."
+  }
+}
