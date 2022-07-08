@@ -79,7 +79,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'overview/introduction',
+            docId: 'code-examples',
             position: 'left',
             label: 'Code examples',
           },
@@ -96,10 +96,10 @@ const config = {
           {
             title: 'Docs',
             items: [
-              // {
-              //   label: 'Tutorial',
-              //   to: '/docs/overview',
-              // },
+              {
+                label: 'Quickstart',
+                to: '/docs/category/quickstarts',
+              },
             ],
           },
           {
