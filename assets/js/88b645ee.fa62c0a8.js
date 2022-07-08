@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkactual_lab_docs=self.webpackChunkactual_lab_docs||[]).push([[168],{1536:e=>{e.exports=JSON.parse('{"title":"Overview","description":"Learn the most important concepts.","slug":"/category/overview","permalink":"/docs/category/overview","navigation":{"next":{"title":"Introduction","permalink":"/docs/overview/introduction"}}}')}}]);
